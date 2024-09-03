@@ -1,0 +1,19 @@
+{
+    "items":[
+        {
+            "id":1,
+            "checked":true,
+            "item":"play"
+        },
+        {
+            "id":2,
+            "checked":false,
+            "item":"Study"
+        },
+        {
+            "id":3,
+            "checked":false,
+            "item":"Read"
+        }
+    ]
+}
